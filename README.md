@@ -1,4 +1,4 @@
-# Machine-Learning-Projects
+# Titanic-Survival-Exploration
 
 In 1912, the largest ship afloat at the time- RMS Titanic sank after colliding with an iceberg. Of the 2224 passengers and crew abroad 1502 died. One of the reasons that the shipwreck led to such loss of life was that there were not enough lifeboats for the passengers and crew. This sensational tragedy shocked the international community and led to better safety regulations for ships.
 
